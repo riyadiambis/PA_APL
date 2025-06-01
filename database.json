@@ -17,7 +17,7 @@
 			"harga_poin" : 2499,
 			"id" : "BRG03",
 			"nama" : "Miyako Rice Cooker MCM-508",
-			"stok" : 13
+			"stok" : 12
 		},
 		{
 			"harga_poin" : 2990,
@@ -41,13 +41,13 @@
 			"harga_poin" : 999,
 			"id" : "BRG07",
 			"nama" : "Set Gelas Kaca 6pcs",
-			"stok" : 24
+			"stok" : 23
 		},
 		{
 			"harga_poin" : 899,
 			"id" : "BRG08",
 			"nama" : "Kaos Polos Premium",
-			"stok" : 45
+			"stok" : 47
 		},
 		{
 			"harga_poin" : 3499,
@@ -77,7 +77,7 @@
 			"harga_poin" : 7990,
 			"id" : "BRG13",
 			"nama" : "Keyboard Mechanical RGB",
-			"stok" : 15
+			"stok" : 14
 		},
 		{
 			"harga_poin" : 4990,
@@ -89,7 +89,7 @@
 			"harga_poin" : 29990,
 			"id" : "BRG15",
 			"nama" : "Air Purifier Sharp",
-			"stok" : 4
+			"stok" : 5
 		},
 		{
 			"harga_poin" : 1990,
@@ -350,7 +350,7 @@
 			"nama" : "Bank Sampah Sintang Lestari"
 		}
 	],
-	"saldo_bank_sampah" : 98610,
+	"saldo_bank_sampah" : 95500,
 	"sampah" : 
 	[
 		{
@@ -442,108 +442,99 @@
 			"username" : "ridwan"
 		},
 		{
-			"bank" : "dys",
+			"bank" : "Bank Kaltimtara",
 			"id_transaksi" : "TRXU6",
-			"no_rekening" : "2311221133",
-			"nominal" : 120,
-			"poin_ditukar" : 12,
+			"no_rekening" : "7856732598232",
+			"nominal" : 2400,
+			"poin_ditukar" : 240,
 			"tipe" : "tukar_uang",
-			"username" : "ridwan"
+			"username" : "king"
 		},
 		{
 			"bank" : "BRI",
 			"id_transaksi" : "TRXU7",
-			"no_rekening" : "123456891011",
-			"nominal" : 1230,
-			"poin_ditukar" : 123,
+			"no_rekening" : "4823273728382",
+			"nominal" : 100,
+			"poin_ditukar" : 10,
 			"tipe" : "tukar_uang",
-			"username" : "ridwan"
-		},
-		{
-			"bank" : "BRI",
-			"id_transaksi" : "TRXU8",
-			"no_rekening" : "123456789100",
-			"nominal" : 120,
-			"poin_ditukar" : 12,
-			"tipe" : "tukar_uang",
-			"username" : "ridwan"
-		},
-		{
-			"harga_poin" : 29990,
-			"id_transaksi" : "TRXB9",
-			"jumlah" : 1,
-			"nama_barang" : "Air Purifier Sharp",
-			"tipe" : "tukar_barang",
-			"username" : "ridwan"
+			"username" : "king"
 		},
 		{
 			"harga_poin" : 899,
-			"id_transaksi" : "TRXB10",
-			"jumlah" : 1,
-			"nama_barang" : "Kaos Polos Premium",
-			"tipe" : "tukar_barang",
-			"username" : "ridwan"
-		},
-		{
-			"harga_poin" : 899,
-			"id_transaksi" : "TRXB11",
+			"id_transaksi" : "TRXB8",
 			"jumlah" : 2,
 			"nama_barang" : "Kaos Polos Premium",
 			"tipe" : "tukar_barang",
-			"username" : "ridwan"
+			"username" : "king"
 		},
 		{
-			"harga_poin" : 899,
-			"id_transaksi" : "TRXB12",
-			"jumlah" : 1,
-			"nama_barang" : "Kaos Polos Premium",
-			"tipe" : "tukar_barang",
-			"username" : "ridwan"
+			"berat_kg" : 7.2000000000000002,
+			"id_transaksi" : "TRX9",
+			"jenis_sampah" : "Besi",
+			"petugas" : "petugas1",
+			"poin_diterima" : 288,
+			"tanggal" : "2025-05-11",
+			"username" : "riyadi"
 		},
 		{
 			"bank" : "BRI",
-			"id_transaksi" : "TRXU13",
-			"no_rekening" : "31224235354",
-			"nominal" : 120,
-			"poin_ditukar" : 12,
+			"id_transaksi" : "TRXU10",
+			"no_rekening" : "28373828426873",
+			"nominal" : 2000,
+			"poin_ditukar" : 200,
 			"tipe" : "tukar_uang",
-			"username" : "ridwan"
+			"username" : "riyadi"
 		},
 		{
-			"berat_kg" : 12.0,
-			"id_transaksi" : "TRX14",
+			"berat_kg" : 27.0,
+			"id_transaksi" : "TRX11",
 			"jenis_sampah" : "Sampah Plastik",
 			"petugas" : "petugas1",
-			"poin_diterima" : 240,
+			"poin_diterima" : 540,
 			"tanggal" : "2025-05-11",
-			"username" : "ridwan"
+			"username" : "cicak"
 		},
 		{
-			"berat_kg" : 12.0,
-			"id_transaksi" : "TRX15",
-			"jenis_sampah" : "Tembaga",
+			"berat_kg" : 100.0,
+			"id_transaksi" : "TRX12",
+			"jenis_sampah" : "Besi",
 			"petugas" : "petugas1",
-			"poin_diterima" : 4200,
+			"poin_diterima" : 4000,
 			"tanggal" : "2025-05-11",
-			"username" : "ridwan"
+			"username" : "ido"
 		},
 		{
-			"berat_kg" : 12.0,
-			"id_transaksi" : "TRX16",
-			"jenis_sampah" : "Sampah Plastik",
+			"berat_kg" : 28.670000000000002,
+			"id_transaksi" : "TRX13",
+			"jenis_sampah" : "Aluminium",
 			"petugas" : "petugas1",
-			"poin_diterima" : 240,
+			"poin_diterima" : 2006,
 			"tanggal" : "2025-05-11",
-			"username" : "ridwan"
+			"username" : "cicak"
 		},
 		{
-			"berat_kg" : 1.0,
-			"id_transaksi" : "TRX17",
-			"jenis_sampah" : "Sampah Plastik",
-			"petugas" : "petugas1",
-			"poin_diterima" : 20,
-			"tanggal" : "2025-05-11",
-			"username" : "ridwan"
+			"harga_poin" : 999,
+			"id_transaksi" : "TRXB14",
+			"jumlah" : 1,
+			"nama_barang" : "Set Gelas Kaca 6pcs",
+			"tipe" : "tukar_barang",
+			"username" : "riyadi"
+		},
+		{
+			"harga_poin" : 2499,
+			"id_transaksi" : "TRXB15",
+			"jumlah" : 1,
+			"nama_barang" : "Miyako Rice Cooker MCM-508",
+			"tipe" : "tukar_barang",
+			"username" : "riyadi"
+		},
+		{
+			"harga_poin" : 7990,
+			"id_transaksi" : "TRXB16",
+			"jumlah" : 1,
+			"nama_barang" : "Keyboard Mechanical RGB",
+			"tipe" : "tukar_barang",
+			"username" : "riyadi"
 		}
 	],
 	"users" : 
@@ -576,7 +567,7 @@
 		},
 		{
 			"password" : "234",
-			"poin" : 9611573,
+			"poin" : 9640618,
 			"role" : "nasabah",
 			"username" : "ridwan"
 		},
@@ -600,20 +591,51 @@
 		},
 		{
 			"password" : "riyadi",
-			"poin" : 6733,
+			"poin" : 4685,
 			"role" : "nasabah",
 			"username" : "king"
 		},
 		{
 			"password" : "123",
-			"poin" : 18110,
+			"poin" : 6710,
 			"role" : "nasabah",
 			"username" : "riyadi"
 		},
 		{
+			"password" : "098",
+			"poin" : 0,
+			"role" : "nasabah",
+			"username" : "akun_baru"
+		},
+		{
+			"password" : "098",
+			"poin" : 0,
+			"role" : "nasabah",
+			"username" : "akun_baru"
+		},
+		{
+			"password" : "0978",
+			"poin" : 0,
+			"role" : "nasabah",
+			"username" : "miku"
+		},
+		{
+			"password" : "kaori",
+			"poin" : 2546,
+			"role" : "nasabah",
+			"username" : "cicak"
+		},
+		{
+			"password" : "enak",
+			"poin" : 0,
+			"role" : "nasabah",
+			"username" : "makan"
+		},
+		{
 			"password" : "123",
-			"role" : "petugas",
-			"username" : "petugas magang"
+			"poin" : 4000,
+			"role" : "nasabah",
+			"username" : "ido"
 		}
 	]
 }

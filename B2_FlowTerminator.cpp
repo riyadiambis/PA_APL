@@ -1052,7 +1052,7 @@ void ubahPetugas() {
 
     string username;
     cout << "\nMasukkan username petugas yang ingin diubah: ";
-    getline(cin >> ws, username); // Use ws to handle whitespace properly
+    getline(cin >> ws, username);
 
     bool found = false;
     for (auto& users : database["users"]) {
@@ -1066,7 +1066,6 @@ void ubahPetugas() {
             getline(cin, newUsername);
 
             if (!newUsername.empty()) {
-                // Check if new username already exists
                 bool isDuplicate = false;
                 for (const auto& existingUser : database["users"]) {
                     if (existingUser["username"].asString() == newUsername && 
